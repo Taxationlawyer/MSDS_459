@@ -10,6 +10,6 @@ Chapter one (of the book entitled “Knowledge Graphs,” by Kejriwal et al.) in
 
 In conclusion knowledge graphs need to be robust and useful (extract contextually relevant and needed information). Moreover, knowledge graphs depict relationships between the information, for example Joe Smith is the husband of Mary Smith. Again, although software is available for the modeling of the graphs, human experience and intelligence is required to fine tune the knowledge graphs and to interpret the same. 
 
-Reference
+**Reference**
 
 * Lane, Hobson and Maria Dyshel. 2025. Natural Language Processing in Action (second edition). Shelter Island, NY: Manning. [ISBN-13: 978-1617299445] Chapter 10, Large language models in the real world, pages 410–469. Available on Course Reserves, and Chapter 11, Information extraction and knowledge graphs, pages 470–512. Available on Course Reserves.
