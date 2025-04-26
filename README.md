@@ -1,5 +1,5 @@
 # MSDS 459
-## This is  Assignments One for  the MSDS 459 Class at Northwestern University
+## This is  Assignment One for  the MSDS 459 Class at Northwestern University
 
 Enter the new and exciting new and novel world of Artificial Intelligence (AI), including web scraping, Information Extraction (IE), Knowledge Graphs (KG), and Named Entity Recognition (NER). Well, what is old is new again. These processes rely on traditional modeling methods. Regarding web scraping, the process is starting by “planting a few seeds,” (URLs).
 
