@@ -1,7 +1,7 @@
 # MSDS 459
 ## This is  Assignment One for  the MSDS 459 Class at Northwestern University
 
-Enter the exciting new and novel world of Artificial Intelligence (AI), including web scraping, Information Extraction (IE), Knowledge Graphs (KG), and Named Entity Recognition (NER). Well, what is old is new again. These processes rely on traditional modeling methods. Regarding web scraping, the process is starting by “planting a few seeds,” (URLs).
+Enter the exciting new and novel world of Artificial Intelligence (AI), including web scraping, Information Extraction (IE), Knowledge Graphs (KG), and Named Entity Recognition (NER). Well, what is old is new again. These processes rely on traditional modeling methods. Regarding web scraping, the process is started by “planting a few seeds,” (URLs).
 
 The seeds are also called spiders. After this process is started, the algorithm proceeds to gather “relevant” information from the World Wide Web (“the internet”). The process of determining what is relevant (or not) involves traditional modeling methods (including principal component analysis, decision trees—classification systems, neural networks, and other methods).
 
